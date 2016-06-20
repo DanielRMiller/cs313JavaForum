@@ -1,0 +1,6 @@
+Forum\Comment.class
+Authentication\Authenticate.class
+Authentication\UserHandler.class
+Forum\CommentHandler.class
+Authentication\User.class
+Forum\Forum.class
